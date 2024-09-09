@@ -12,7 +12,7 @@ const AddOns = () => {
   return (
     <div className="flex flex-col gap-2">
       <div className="flex flex-col gap-1">
-        <CardTitle>Add Ons</CardTitle>
+        <CardTitle>Amenities</CardTitle>
         <CardDescription>For more comfortable stay</CardDescription>
       </div>
       <ScrollArea>

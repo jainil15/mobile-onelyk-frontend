@@ -12,7 +12,9 @@ export default function Home() {
       <Modal />
 
       <AddOns />
+      
 
+      
       <FaqComponent />
 
       <div className="sticky bottom-0 flex  items-center  bg-background  w-full z-50 ">
